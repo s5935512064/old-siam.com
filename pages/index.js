@@ -73,7 +73,7 @@ export default function Home() {
                 </div>
                 <div className="py-8 px-4 bg-white  rounded-b-md ">
                   <span className="block text-lg text-[#0A3255] font-bold tracking-wide">Tourist Destination</span>
-                  <span className="block text-gray-600 text-sm">It's covers four districts: Phra Nakhon, Pom Prap Sattruphai, Samphanthawong and Dusit.</span>
+                  <span className="block text-gray-600 text-sm">It&apos;s covers four districts: Phra Nakhon, Pom Prap Sattruphai, Samphanthawong and Dusit.</span>
                 </div>
               </div>
 
